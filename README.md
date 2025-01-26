@@ -19,7 +19,7 @@ Project Structure
 
 Live Demo
 
-You can view the project live at: .
+You can view the project live at: https://vinodhini-anandhan.github.io/udemy_clone/.
 
 How to Use
 	1.	Clone this repository to your local machine:
